@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "web-hw-12"
+name = "hm2_12"
 version = "0.1.0"
 description = ""
-authors = ["maxafanasiev <80445276+maxafanasiev@users.noreply.github.com>"]
+authors = ["Nikita-devel <80445276+Nikita-devel@users.noreply.github.com>"]
 readme = "README.md"
-packages = [{include = "web_hw_12"}]
+packages = [{include = "hm2_12"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
